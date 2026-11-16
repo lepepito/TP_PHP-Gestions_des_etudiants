@@ -5,9 +5,9 @@ ajout, modification, suppression et photo de profil.
 Données enregistrées dans `data/etudiants.txt`.
 
 ## Lancer le projet
-1. Copier le dossier `gestion_etudiants` dans `C:\xampp\htdocs\`
+1. Cloner le dépôt dans `C:\xampp\htdocs\`
 2. Démarrer Apache dans XAMPP
-3. Ouvrir http://localhost/gestion_etudiants/
+3. Ouvrir http://localhost/TP_PHP-Gestions_des_etudiants/
 
 ## Identifiants de test
 - admin / admin123
